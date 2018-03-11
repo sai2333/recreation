@@ -1,5 +1,5 @@
 # recreation
-## 吃喝玩乐
+## 吃喝玩乐,[demo](http://saiblog.top/recreation/index.html)
 使用了boostrap栅格布局，boostrap导航条和boostrap的轮播图。slick.js插件实现多图轮播。用到部分CSS3动画。
 ## 导航条和轮播图 ##
 [![9WfG0x.md.png](https://s1.ax1x.com/2018/03/11/9WfG0x.md.png)](https://imgchr.com/i/9WfG0x)
